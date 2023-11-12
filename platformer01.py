@@ -767,7 +767,7 @@ def menu():
         ###
 
         ###text
-        txt = End_font.render('WhatTheFrog', True, (0, 0, 0))
+        txt = End_font.render('WhatTheFrog', True, (255, 255, 255))
         txt_play = fonts_2.render('Play', True, (0, 0, 0))
         txt_quit = fonts_2.render('Quit', True, (0, 35, 23))
         screen.blit(txt, (100, 100))
