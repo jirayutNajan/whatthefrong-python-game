@@ -1,7 +1,8 @@
 # What The Frog 2D Platformer Game
 
-<img src="https://jirayutnajan.github.io/img/project/game/game%20(4).png" alt="Gameplay Screenshot" width="600">
-
+<div align="center">
+  <img src="https://jirayutnajan.github.io/img/project/game/game%20(4).png" alt="Gameplay Screenshot" width="600">
+</div>
 
 **What The Frog** is a 2D platformer game developed using Python and the Pygame library. The player controls a frog character and must navigate through various levels filled with obstacles and enemies, aiming to defeat challenges and progress through different stages.
 
